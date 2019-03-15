@@ -15,5 +15,6 @@ Add your SSH private key to the ssh-agent and store your passphrase in the keych
 ```
 $ ssh-add -K ~/.ssh/id_rsa
 ```
+[Register](../register.html)
 
 #Linux/help
