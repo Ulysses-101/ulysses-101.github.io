@@ -1,12 +1,12 @@
 ### Welcome to Secure Webb
 
-I created Secure Webb so that my family and friends can use the internet securely and without your personal data being collected. 
+I created Secure Webb so that my family and friends can use the internet securely and without your personal browser data being collected. 
 
 ## The main benefits:
 
 - Use any public WiFi completely securely.
 - Secure Webb stops app's and websites from tracking you.
-- No Ad’s on websites or in app’s
+- No Ad’s on websites or in app’s.
 - Faster internet browsing
 
 If you use Secure Webb and Signal for your messaging and call's you will have an encrypted comms solution that would make [El Chapo proud](https://www.nytimes.com/2019/01/08/nyregion/el-chapo-trial.html).
