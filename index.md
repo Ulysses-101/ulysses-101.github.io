@@ -1,6 +1,11 @@
 ### Welcome to Secure Webb
+<<<<<<< HEAD
 ![overview](./assets/images/camera.jpg)
 I created Secure Webb so that my family and friends can use the internet securely and without your personal browser data being collected.
+=======
+
+I created Secure Webb so that my family and friends can use the internet securely and without personal browsing data being collected.
+>>>>>>> 42395f7fa3f278a44e3b178c9e2ec649fb772d91
 
 ## The main benefits:
 
