@@ -1,7 +1,7 @@
 ### Welcome to Secure Webb
 
-![overview](./assets/images/camera.jpg)
 I created Secure Webb so that my family and friends can use the internet securely and without your personal browser data being collected.
+![overview](./assets/images/camera.jpg)
 
 ## The main benefits:
 
