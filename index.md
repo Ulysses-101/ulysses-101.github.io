@@ -1,6 +1,6 @@
 ### Welcome to Secure Webb
 
-I created Secure Webb so that my family and friends can use the internet securely and without your personal browser data being collected.
+I created Secure Webb so that my family and friends can use the internet securely and without personal browsing data being collected.
 
 ## The main benefits:
 
