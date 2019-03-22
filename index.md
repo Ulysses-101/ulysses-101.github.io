@@ -18,4 +18,4 @@ If you use Secure Webb and Signal you will have an encrypted comms solution that
 - The DNS sinkhole then sends the approved requests to our DNS server which in turn passes these requests onto the internet’s root DNS servers, this is important because it means ISP’s or others can’t track you through their own cached DNS servers.
 - Once the DNS process finishes a request is made to the website you’re browsing from the VPS, encrypted and sent back securely to your device 
 
-If you would like to try it out please Register Here](register.html)
+If you would like to try it out please [Register Here](register.html)
